@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Rafi Shebu (ROCKETRAFI)
 
-<!--
-**ROCKETRAFI/ROCKETRAFI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Electrical & Computer Engineering  
+💻 Software Developer | AI Enthusiast | Web & Mobile Developer  
+🤖 Passionate about building intelligent apps, automation tools, and user-focused digital experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I'm a developer who enjoys building real-world applications that combine *AI, **web/mobile development, and **system automation*.  
+I’m currently working on AI chatbots, mobile apps, and automation tools, and interning as a *Web Developer & Mobile App Developer* for the SF Living Wage Coalition.
+
+I love exploring how AI can make products more personalized — especially in social and relationship-based applications.
+
+---
+
+## 🔧 Technologies & Tools  
+### *AI / ML*
+- ChatGPT, Claude, Gemini, Cursor, Copilot  
+- NLP, sentiment analysis, emotion detection  
+
+### *Web Development*
+- JavaScript, React, HTML/CSS, WordPress  
+- APIs, REST, JSON workflows  
+
+### *Mobile Development*
+- React Native (Expo)  
+- UI/UX design  
+
+### *Backend / Systems*
+- Python, Flask  
+- Networking, client–server communication  
+- Linux (RHCSA), automation scripts
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 *EMOTI – Emotional AI Chatbot*
+AI-powered chatbot built with Flask + sentiment analysis  
+Personalized emoji-based UI and intelligent responses  
+➡ [Repo Link]
+
+---
+
+### 📱 *SF Living Wage Coalition – Mobile App*
+React Native/Expo app for event registration & internal workflow tools  
+➡ [Repo Link]
+
+---
+
+### 🌐 *SF Living Wage Coalition – Website Front-End*
+Contributions to WordPress front-end, UI updates, automation workflows  
+➡ [Repo Link]
+
+---
+
+### 🔌 *Python Client–Server Attendance System*
+TCP server + HTTP GET/POST handling  
+File transfer system for PDF attendance sheets  
+➡ [Repo Link]
+
+---
+
+### 🤝 *Parent Connect – Autism Support Platform*
+Web platform for parents to find providers, learning modules, dashboards  
+➡ [Repo Link]
+
+---
+
+## 📬 Connect With Me  
+📎 LinkedIn: https://linkedin.com/in/mohamedrafishebu  
+📧 Email: mohamedrafishebu@gmail.com  
+🌐 Portfolio: Add if you want
+
+---
+
+⭐ Always building. Always learning.
