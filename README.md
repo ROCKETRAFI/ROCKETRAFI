@@ -39,19 +39,19 @@ I love exploring how AI can make products more personalized — especially in so
 ### 🔥 *EMOTI – Emotional AI Chatbot*
 AI-powered chatbot built with Flask + sentiment analysis  
 Personalized emoji-based UI and intelligent responses  
-➡ [Repo Link]
+➡ https://github.com/techtana/ai_developer_2025.git
 
 ---
 
 ### 📱 *SF Living Wage Coalition – Mobile App*
 React Native/Expo app for event registration & internal workflow tools  
-➡ [Repo Link]
+➡ https://github.com/SF-LivingWageCoalition/sflivingwages-mobile-app.git
 
 ---
 
 ### 🌐 *SF Living Wage Coalition – Website Front-End*
 Contributions to WordPress front-end, UI updates, automation workflows  
-➡ [Repo Link]
+
 
 ---
 
