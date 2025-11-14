@@ -58,14 +58,14 @@ Contributions to WordPress front-end, UI updates, automation workflows
 ### 🔌 *Python Client–Server Attendance System*
 TCP server + HTTP GET/POST handling  
 File transfer system for PDF attendance sheets  
-➡ [Repo Link]
+➡ https://github.com/ROCKETRAFI/attendance-client-server-.git
 
 ---
 
 ## 📬 Connect With Me  
 📎 LinkedIn: https://linkedin.com/in/mohamed-rafi-shebu  
 📧 Email: rafimoni379@gmail.com  
-🌐 Portfolio: Add if you want
+
 
 ---
 
