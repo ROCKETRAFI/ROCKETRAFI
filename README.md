@@ -62,15 +62,9 @@ File transfer system for PDF attendance sheets
 
 ---
 
-### 🤝 *Parent Connect – Autism Support Platform*
-Web platform for parents to find providers, learning modules, dashboards  
-➡ [Repo Link]
-
----
-
 ## 📬 Connect With Me  
-📎 LinkedIn: https://linkedin.com/in/mohamedrafishebu  
-📧 Email: mohamedrafishebu@gmail.com  
+📎 LinkedIn: https://linkedin.com/in/mohamed-rafi-shebu  
+📧 Email: rafimoni379@gmail.com  
 🌐 Portfolio: Add if you want
 
 ---
